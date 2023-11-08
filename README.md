@@ -22,4 +22,4 @@
 1. Клонировать репозиторий на свой компьютер:
 
    ```bash
-   git clone https://github.com/ваш-путь-к-репозиторию.git
+   git clone https://github.com/smpas/permProject.git
