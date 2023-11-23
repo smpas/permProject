@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "pawnbroker",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n2917124792", "osm_id": "2917124792", "osm_type": "node", "shop": "pawnbroker", "opening_hours": null, "contact:website": null, "contact:vk": null, "contact:phone": null, "contact:instagram": null, "contact:email": null, "operator": null, "name": "Ломбард" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 56.2578577, 57.9872442 ] ] } },
+{ "type": "Feature", "properties": { "full_id": "n3226028769", "osm_id": "3226028769", "osm_type": "node", "shop": "pawnbroker", "opening_hours": null, "contact:website": null, "contact:vk": null, "contact:phone": null, "contact:instagram": null, "contact:email": null, "operator": null, "name": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 56.2571903, 57.986349 ] ] } },
+{ "type": "Feature", "properties": { "full_id": "n6031900901", "osm_id": "6031900901", "osm_type": "node", "shop": "pawnbroker", "opening_hours": null, "contact:website": null, "contact:vk": null, "contact:phone": null, "contact:instagram": null, "contact:email": null, "operator": null, "name": "Ломбард" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 56.2742891, 58.0060576 ] ] } },
+{ "type": "Feature", "properties": { "full_id": "n8635422626", "osm_id": "8635422626", "osm_type": "node", "shop": "pawnbroker", "opening_hours": "Mo-Su 08:00-23:00", "contact:website": "https://www.lombardperm.ru/", "contact:vk": "https://vk.com/lombard1perm", "contact:phone": "+7 902 8018688", "contact:instagram": "https://instagram.com/permlombard", "contact:email": "2778688@mail.ru", "operator": "ООО ЛОМБАРД №1", "name": "Ломбард №1" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 56.229897, 58.006849 ] ] } }
+]
+}

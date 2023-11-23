@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "shoemaker",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n4148695689", "osm_id": "4148695689", "osm_type": "node", "craft": "shoemaker", "name": "евросервис", "addr:street": "улица Крисанова", "addr:housenumber": "29" }, "geometry": { "type": "Point", "coordinates": [ 56.2132512, 58.0043305 ] } },
+{ "type": "Feature", "properties": { "full_id": "n6965599113", "osm_id": "6965599113", "osm_type": "node", "craft": "shoemaker", "name": null, "addr:street": null, "addr:housenumber": null }, "geometry": { "type": "Point", "coordinates": [ 56.321436, 58.0059976 ] } },
+{ "type": "Feature", "properties": { "full_id": "n10310122167", "osm_id": "10310122167", "osm_type": "node", "craft": "shoemaker", "name": null, "addr:street": null, "addr:housenumber": null }, "geometry": { "type": "Point", "coordinates": [ 56.1184992, 58.0048806 ] } }
+]
+}

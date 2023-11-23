@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "copyshop",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n3123496344", "osm_id": "3123496344", "osm_type": "node", "shop": "copyshop", "opening_hours": null, "contact:phone": null, "contact:email": null, "website": "http://reklama-dvor.ru/", "name": "Рекламный двор" }, "geometry": { "type": "Point", "coordinates": [ 56.2544474, 58.0140549 ] } },
+{ "type": "Feature", "properties": { "full_id": "n3149127676", "osm_id": "3149127676", "osm_type": "node", "shop": "copyshop", "opening_hours": null, "contact:phone": null, "contact:email": null, "website": null, "name": "Алекс Пресс" }, "geometry": { "type": "Point", "coordinates": [ 56.2802751, 58.0146068 ] } },
+{ "type": "Feature", "properties": { "full_id": "n8752464293", "osm_id": "8752464293", "osm_type": "node", "shop": "copyshop", "opening_hours": "Mo-Fr 10:00-14:00,15:00-18:00", "contact:phone": "+7 342 2020313;+7 950 4478044", "contact:email": "dp2020313@mail.ru", "website": null, "name": "216" }, "geometry": { "type": "Point", "coordinates": [ 56.2323082, 58.0153515 ] } },
+{ "type": "Feature", "properties": { "full_id": "n8928747242", "osm_id": "8928747242", "osm_type": "node", "shop": "copyshop", "opening_hours": null, "contact:phone": null, "contact:email": null, "website": null, "name": "Позитив" }, "geometry": { "type": "Point", "coordinates": [ 56.2918045, 57.982073 ] } }
+]
+}

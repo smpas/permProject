@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "public_bath",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "w285081560", "osm_id": "285081560", "osm_type": "way", "amenity": "public_bath", "name": "Три богатыря", "building": "yes", "addr:street": "Ижевская улица", "addr:housenumber": "39" }, "geometry": { "type": "Point", "coordinates": [ 56.280821629509511, 57.983822754305962 ] } }
+]
+}

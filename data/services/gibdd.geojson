@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "gibdd",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n2683742265", "osm_id": "2683742265", "osm_type": "node", "name": "Полк ДПС ГИБДД", "amenity": "police" }, "geometry": { "type": "Point", "coordinates": [ 56.2387013, 57.9984233 ] } },
+{ "type": "Feature", "properties": { "full_id": "n2729038533", "osm_id": "2729038533", "osm_type": "node", "name": "Полк ДПС", "amenity": "police" }, "geometry": { "type": "Point", "coordinates": [ 56.1971957, 57.9689479 ] } },
+{ "type": "Feature", "properties": { "full_id": "n1058224712", "osm_id": "1058224712", "osm_type": "node", "name": "ГИБДД Пермского края", "amenity": "police" }, "geometry": { "type": "Point", "coordinates": [ 56.2901694, 57.9926761 ] } },
+{ "type": "Feature", "properties": { "full_id": "n617523029", "osm_id": "617523029", "osm_type": "node", "name": "ГИБДД Дзержинского р-на", "amenity": "police" }, "geometry": { "type": "Point", "coordinates": [ 56.182726, 58.0084897 ] } },
+{ "type": "Feature", "properties": { "full_id": "n1132254020", "osm_id": "1132254020", "osm_type": "node", "name": "ОГИБДД №5 УВД, Мотовилихинский район", "amenity": "police" }, "geometry": { "type": "Point", "coordinates": [ 56.2854831, 58.0237833 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Центр автоматизированной фиксации административных правонарушений в области дорожного движения ГИБДД", "amenity": "police" }, "geometry": { "type": "Point", "coordinates": [ 56.222194621372374, 58.006799719833545 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "ГИБДД ОВД по Пермскому муниципальному району", "amenity": "police" }, "geometry": { "type": "Point", "coordinates": [ 56.12901216927542, 57.956979417137326 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "osm_id": null, "osm_type": null, "name": "Полк ДПС ГИБДД ", "amenity": "police" }, "geometry": { "type": "Point", "coordinates": [ 56.316898513243508, 58.02297991426925 ] } },
+{ "type": "Feature", "properties": { "full_id": "n2683742265", "osm_id": "2683742265", "osm_type": "node", "name": "Полк ДПС ГИБДД", "amenity": "police" }, "geometry": { "type": "Point", "coordinates": [ 56.2387013, 57.9984233 ] } }
+]
+}
