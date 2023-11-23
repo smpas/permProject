@@ -1,15 +1,15 @@
 import geopandas as gpd
 
-blocks_path = './data/blocks.geojson'
+blocks_path = '../data/blocks.geojson'
 blocks_gdf = gpd.read_file(blocks_path)
-services_path = './data/services.geojson'
+services_path = '../data/services.geojson'
 services_gdf = gpd.read_file(services_path)
 
 # Присоединение атрибута block_id
 joined_gdf = gpd.sjoin(services_gdf, blocks_gdf, how='left', predicate='within')
 result_gdf = joined_gdf[['id', 'service_code', 'block_id', 'geometry']]
 
-districts_path = './data/districts.geojson'
+districts_path = '../data/districts.geojson'
 districts_gdf = gpd.read_file(districts_path)
 districts_gdf['administrative_unit_id'] = districts_gdf['id']
 
