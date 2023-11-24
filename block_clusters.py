@@ -9,8 +9,6 @@ city_model.update_layer("Buildings", "./data/buildings.geojson")
 city_model.update_layer("Services", "./data/services.geojson")
 city_model.update_layer("Blocks", "./data/blocks.geojson")
 
-print(city_model.methods.spacematrix.message)
-
 from CityGeoTools.metrics.calculations import spacematrix
 blocks_morphotypes = spacematrix.Spacematrix(city_model).get_morphotypes()
 blocks_morphotypes = gpd.GeoDataFrame.from_features(blocks_morphotypes).set_crs(4326)

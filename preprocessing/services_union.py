@@ -1,7 +1,7 @@
 import geopandas as gpd
 import os
 
-folder_path = 'C:/Users/sm_pa/OneDrive/Рабочий стол/analysys/citymodels/permModel/data/services'
+folder_path = '/data/services'
 
 # Создаем пустой GeoDataFrame, который будет содержать все сервисы
 combined_gdf = gpd.GeoDataFrame()
