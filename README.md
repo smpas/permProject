@@ -61,3 +61,30 @@
   Сервисы здравоохранения едва ли выходят за пределы исторического центра города и сконцентрированы именно в нем. Также в зависимости от удаления от исторического центра города меняется и структура кластеров здравоохранения: если в центре города значительную долю составляют больницы, то за пределами центра города они практически не встречаются.
   
   Похожим образом ситуация обстоит и с развлекательными сервисами, которые в основном сконцентрированы в центре города и почти не формируют кластеров за его пределами (за исклочением кластера в районе Гайва). В отдаленных частях города сервисы индустрии развлечения представлены единичными домами культуры.
+
+## Задание 4: Изохроны
+### Подготовка интермодального графа
+Код выгрузки интермодального графа находится в файле [get_intermodal_graph.py](https://github.com/smpas/permProject/blob/master/graphs/code/get_intermodal_graph.py).
+
+### Построение изохронов
+Были построены следующие изохроны:
+- 10-минутной пешеходной доступности
+- 5-минутной автомобильной доступности
+- 20-минутной доступности на общественном транспорте
+ 
+Код загрузки графа в городскую модель и построения изохронов находится в файле [isochrones.py](https://github.com/smpas/permProject/blob/master/graphs/code/isochrones.py).
+
+### Визуализация
+Изохроны были визуализированы при помощи библиотеки Folium. Результаты визуализации представлены в формате [HTML-страницы](https://github.com/smpas/permProject/blob/master/graphs/results/intermodal_graph.html).
+![изображение](https://github.com/smpas/permProject/assets/55205785/51ee140e-ebb0-4976-981d-d6dc6f954164)
+
+### Фильтрация зданий
+Все здания города были отфильтрованы по вхождению в каждый из трех изохронов:
+- Здания, входящие в 10-минутный пешеходный изохрон: [buildings_in_walk_isochrone.geojson]([https://github.com/smpas/permProject/blob/master/graphs/results/walk_isochrone.geojson](https://github.com/smpas/permProject/blob/master/graphs/results/buildings_in_walk_isochrone.geojson)https://github.com/smpas/permProject/blob/master/graphs/results/buildings_in_walk_isochrone.geojson).
+![изображение](https://github.com/smpas/permProject/assets/55205785/955d4065-6171-4b07-8590-57c47600ce35)
+
+- Здания, входящие в 5-минутный автомобильный изохрон: [buildings_in_drive_isochrone.geojson](https://github.com/smpas/permProject/blob/master/graphs/results/buildings_in_drive_isochrone.geojson).
+![изображение](https://github.com/smpas/permProject/assets/55205785/dbbdea3f-f3c8-449d-8373-eea7377e543f)
+
+- Здания, входящие в 20-минутный изохрон общественного транспорта: [buildings_in_transport_isochrone.geojson](https://github.com/smpas/permProject/blob/master/graphs/results/buildings_in_transport_isochrone.geojson)
+![изображение](https://github.com/smpas/permProject/assets/55205785/1a9649ed-6514-4b5a-8bae-a24f80c98014)
