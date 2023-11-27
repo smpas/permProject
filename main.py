@@ -7,7 +7,7 @@ city_model = BaseModel.CityInformationModel(city_name="Perm", city_crs=32640, cw
 
 city_model.update_layer("Buildings", "./data/buildings.geojson")
 city_model.update_layer("Blocks", "./data/blocks.geojson")
-
+city_model.update_layer("Services", "./data/services.geojson")
 
 print("All methods implemented in CityGeoTools:\n")
 
