@@ -35,9 +35,11 @@
 ### Кластеризация городских сервисов и анализ
 
 - Метод кластеризации городских сервисов был применен для выделения городских подцентров.
-- Код кластеризации и результаты визуализации в формате HTML-файлов доступны в директории [папке с результатами](ссылка_на_папку).
-- Общепит:
-  ![изображение](https://github.com/smpas/permProject/assets/55205785/98c5c82b-e0d6-46cb-9da5-1b23c8ab65a9)
+- Код кластеризации доступен в [директории](https://github.com/smpas/permProject/tree/master/clusters/code).
+- Результаты визуализации в формате HTML-файлов доступны в [директории](https://github.com/smpas/permProject/tree/master/clusters/visualisation).
+
+Общепит:
+![изображение](https://github.com/smpas/permProject/assets/55205785/98c5c82b-e0d6-46cb-9da5-1b23c8ab65a9)
   
 Здравоохранение:
 ![изображение](https://github.com/smpas/permProject/assets/55205785/f7b39619-83e1-4749-9384-bc44b8b0d2ee)
