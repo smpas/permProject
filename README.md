@@ -16,18 +16,18 @@
 ### Подготовка данных
 
 - Слой со зданиями доступен по [ссылке](https://github.com/smpas/permProject/blob/master/data/buildings.geojson).
-- Слой с кварталами доступен по [ссылке]([https://github.com/smpas/permProject/blob/master/data/blocks.geojson](https://github.com/smpas/permProject/blob/master/data/blocks.geojson)).
+- Слой с кварталами доступен по [ссылке](https://github.com/smpas/permProject/blob/master/data/blocks.geojson).
 - Слой с городскими сервисами доступен по [ссылке](https://github.com/smpas/permProject/blob/master/data/services.geojson).
 
 ### Загрузка слоев в модель города
 
-- Пример кода с загрузкой слоев в модель города доступен в файле [код_кластеризации_кварталов.ipynb](ссылка).
+- Пример кода с загрузкой слоев в модель города доступен в файле [main.py](https://github.com/smpas/permProject/blob/master/main.py).
 
 ### Кластеризация кварталов методом SpaceMatrix
 
 - Метод кластеризации SpaceMatrix был применен к кварталам Индустриального района Перми для выявления структурных различий в застройке района.
-- Код кластеризации доступен в файле [код_кластеризации_кварталов.ipynb](ссылка).
-- Визуализация результатов выполнена при помощи библиотеки Folium и доступна в формате HTML-страницы [код_кластеризации_кварталов.html](ссылка)
+- Код кластеризации доступен в файле [block_clusters.py](https://github.com/smpas/permProject/blob/master/clusters/code/block_clusters.py).
+- Визуализация результатов выполнена при помощи библиотеки Folium и доступна в формате ([HTML-страницы](https://github.com/smpas/permProject/blob/master/clusters/visualisation/block_clusters.html)
 ![карта кластеризации кварталов](ссылка).
 
 ### Кластеризация городских сервисов и анализ
