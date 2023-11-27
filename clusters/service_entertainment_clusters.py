@@ -30,10 +30,10 @@ service_colors = {
 
 for idx, row in service_points.iterrows():
     service_type = row['service_code']
-    color = service_colors.get(service_type, 'gray')  # Серый цвет для неопределенных типов
+    color = service_colors.get(service_type, 'gray')
     folium.CircleMarker(
-        location=[row.geometry.y, row.geometry.x],  # Обратите внимание на порядок координат
-        radius=3,  # Радиус круга
+        location=[row.geometry.y, row.geometry.x],
+        radius=3,
         color=color,
         fill=True,
         fill_color=color,
@@ -59,6 +59,5 @@ legend_html += "</div>"
 
 # Добавление легенды на карту
 map.get_root().html.add_child(folium.Element(legend_html))
-
 
 map.save("clusters/entertainment_clusters.html")

@@ -25,10 +25,10 @@ service_colors = {
 
 for idx, row in service_points.iterrows():
     service_type = row['service_code']
-    color = service_colors.get(service_type, 'gray')  # Серый цвет для неопределенных типов
+    color = service_colors.get(service_type, 'gray')
     folium.CircleMarker(
-        location=[row.geometry.y, row.geometry.x],  # Обратите внимание на порядок координат
-        radius=3,  # Радиус круга
+        location=[row.geometry.y, row.geometry.x],
+        radius=3,
         color=color,
         fill=True,
         fill_color=color,
@@ -41,7 +41,6 @@ geo_j = folium.GeoJson(
     tooltip=folium.features.GeoJsonTooltip(['convenience', 'marketplace', 'supermarket'])
 ).add_to(map)
 
-# Добавление легенды
 legend_html = """
 <div style="position: fixed; bottom: 50px; left: 50px; z-index:1000; font-size:14px; background-color:white; padding: 10px; border:1px solid grey; border-radius:5px;">
     <p style="margin:0;"><strong>Legend</strong></p>
@@ -52,8 +51,6 @@ for service_type, color in service_colors.items():
 
 legend_html += "</div>"
 
-# Добавление легенды на карту
 map.get_root().html.add_child(folium.Element(legend_html))
-
 
 map.save("clusters/grocery_clusters.html")
