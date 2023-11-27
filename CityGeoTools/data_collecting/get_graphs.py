@@ -8,8 +8,8 @@ import numpy as np
 import pandas as pd
 import osm2geojson
 
-from data_collecting.utils.overpass_queries import *
-from data_collecting.utils import transform
+from CityGeoTools.data_collecting.utils.overpass_queries import *
+from CityGeoTools.data_collecting.utils import transform
 from shapely.geometry import LineString
 from tqdm import tqdm
 tqdm.pandas()
