@@ -28,7 +28,8 @@
 - Метод кластеризации SpaceMatrix был применен к кварталам Индустриального района Перми для выявления структурных различий в застройке района.
 - Код кластеризации доступен в файле [block_clusters.py](https://github.com/smpas/permProject/blob/master/clusters/code/block_clusters.py).
 - Визуализация результатов выполнена при помощи библиотеки Folium и доступна в формате ([HTML-страницы](https://github.com/smpas/permProject/blob/master/clusters/visualisation/block_clusters.html)
-![карта кластеризации кварталов](ссылка).
+  
+([карта кластеризации кварталов](https://github.com/smpas/permProject/blob/master/clusters/screenshots/blocks.png)).
 
 ### Кластеризация городских сервисов и анализ
 
