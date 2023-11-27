@@ -27,18 +27,28 @@
 
 - Метод кластеризации SpaceMatrix был применен к кварталам Индустриального района Перми для выявления структурных различий в застройке района.
 - Код кластеризации доступен в файле [block_clusters.py](https://github.com/smpas/permProject/blob/master/clusters/code/block_clusters.py).
-- Визуализация результатов выполнена при помощи библиотеки Folium и доступна в формате ([HTML-страницы](https://github.com/smpas/permProject/blob/master/clusters/visualisation/block_clusters.html)
-  
-([карта кластеризации кварталов](https://github.com/smpas/permProject/blob/master/clusters/screenshots/blocks.png)).
+- Визуализация результатов выполнена при помощи библиотеки Folium и доступна в формате HTML-страницы.
+
+![blocks](https://github.com/smpas/permProject/assets/55205785/be2f773e-e976-4425-8919-4ecbfb7fa656)
+
 
 ### Кластеризация городских сервисов и анализ
 
 - Метод кластеризации городских сервисов был применен для выделения городских подцентров.
 - Код кластеризации и результаты визуализации в формате HTML-файлов доступны в директории [папке с результатами](ссылка_на_папку).
-- Скрины: 
-  - [Общепит](ссылка)
-  - [Здравоохранение](ссылка)
-  - [Развлечения](ссылка)
-  - [Образование](ссылка)
-  - [Продукты](ссылка)
+- Общепит:
+  ![изображение](https://github.com/smpas/permProject/assets/55205785/98c5c82b-e0d6-46cb-9da5-1b23c8ab65a9)
+  
+- Здравоохранение:
+![изображение](https://github.com/smpas/permProject/assets/55205785/f7b39619-83e1-4749-9384-bc44b8b0d2ee)
+
+- Развлечения:
+![изображение](https://github.com/smpas/permProject/assets/55205785/5b4feb7a-e0cc-4ea7-b62c-5be92cb5f65f)
+
+- Образование:
+![изображение](https://github.com/smpas/permProject/assets/55205785/273b0f70-dbca-4ad7-9b93-0d090b709460)
+
+- Продукты:
+![изображение](https://github.com/smpas/permProject/assets/55205785/2bd3c90e-755c-4db8-9a97-f79d6668df4a)
+
 - Анализ
