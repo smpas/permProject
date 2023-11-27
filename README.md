@@ -16,7 +16,7 @@
 ### Подготовка данных
 
 - Слой со зданиями доступен по [ссылке](https://github.com/smpas/permProject/blob/master/data/buildings.geojson).
-- Слой с кварталами доступен по [ссылке](https://github.com/smpas/permProject/blob/master/data/blocks.geojson).
+- Слой с кварталами доступен по [ссылке]([https://github.com/smpas/permProject/blob/master/data/blocks.geojson](https://github.com/smpas/permProject/blob/master/data/blocks.geojson)).
 - Слой с городскими сервисами доступен по [ссылке](https://github.com/smpas/permProject/blob/master/data/services.geojson).
 
 ### Загрузка слоев в модель города
