@@ -97,4 +97,4 @@
 
 - Здания, входящие в 20-минутный изохрон общественного транспорта: [buildings_in_transport_isochrone.geojson](https://github.com/smpas/permProject/blob/master/graphs/results/buildings_in_transport_isochrone.geojson)
 
-![изображение](https://github.com/smpas/permProject/assets/55205785/1a9649ed-6514-4b5a-8bae-a24f80c98014)
+![изображение](https://github.com/smpas/permProject/assets/55205785/1a9649ed-6514-4b5a-8bae-a24f80c98014).
