@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "bookmaker",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n4343866400", "osm_id": "4343866400", "osm_type": "node", "shop": "bookmaker", "operator": null, "opening_hours": null, "contact:website": null, "contact:phone": null, "contact:email": null, "name": "Фонбет" }, "geometry": { "type": "Point", "coordinates": [ 56.1631721, 57.9985689 ] } },
+{ "type": "Feature", "properties": { "full_id": "n6812176054", "osm_id": "6812176054", "osm_type": "node", "shop": "bookmaker", "operator": "Первая международная букмекерская компания", "opening_hours": "24/7", "contact:website": "https://www.ligastavok.ru/", "contact:phone": "+7 800 5554455", "contact:email": "info@ligastavok.ru", "name": "Лига Ставок" }, "geometry": { "type": "Point", "coordinates": [ 56.2709749, 58.0003425 ] } },
+{ "type": "Feature", "properties": { "full_id": "n6812176057", "osm_id": "6812176057", "osm_type": "node", "shop": "bookmaker", "operator": "Первая международная букмекерская компания", "opening_hours": "24/7", "contact:website": "https://www.ligastavok.ru/", "contact:phone": "+7 800 5554455", "contact:email": "info@ligastavok.ru", "name": "Лига Ставок" }, "geometry": { "type": "Point", "coordinates": [ 56.229578, 58.004013 ] } },
+{ "type": "Feature", "properties": { "full_id": "n6812176060", "osm_id": "6812176060", "osm_type": "node", "shop": "bookmaker", "operator": "Первая международная букмекерская компания", "opening_hours": "24/7", "contact:website": "https://www.ligastavok.ru/", "contact:phone": "+7 800 5554455", "contact:email": "info@ligastavok.ru", "name": "Лига Ставок" }, "geometry": { "type": "Point", "coordinates": [ 56.2167057, 57.9858062 ] } }
+]
+}

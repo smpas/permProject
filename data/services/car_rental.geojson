@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "car_rental",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n2580396541", "osm_id": "2580396541", "osm_type": "node", "amenity": "car_rental", "name": "Экскурс" }, "geometry": { "type": "Point", "coordinates": [ 56.2743084, 57.96316 ] } }
+]
+}

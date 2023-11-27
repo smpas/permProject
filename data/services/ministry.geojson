@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ministry",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n4210070191", "osm_id": "4210070191", "osm_type": "node", "government": "ministry", "office": "government", "name": "Министерство труда по Перомскому краю Свердловского района г Перми" }, "geometry": { "type": "Point", "coordinates": [ 56.24384, 57.9980612 ] } }
+]
+}

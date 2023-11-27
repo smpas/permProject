@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "craft",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n7760317750", "osm_id": "7760317750", "osm_type": "node", "shop": "craft", "operator": "Воплощение идей", "opening_hours": "Mo-Fr 11:00-18:00", "name": "Воплощение идей", "contact:website": "https://www.voploti-idei.ru/", "contact:vk": "https://vk.com/voploti_formi", "contact:phone": "+7 912 7823384", "contact:instagram": "https://instagram.com/voploti_idei", "contact:email": "gonigor@mail.ru" }, "geometry": { "type": "Point", "coordinates": [ 56.3221809, 58.0065319 ] } },
+{ "type": "Feature", "properties": { "full_id": "n9866908163", "osm_id": "9866908163", "osm_type": "node", "shop": "craft", "operator": null, "opening_hours": "Mo-Su 10:00-22:00", "name": "Леонардо", "contact:website": "https://leonardo.ru/", "contact:vk": null, "contact:phone": "+7 342 2103792;+7 800 7005127", "contact:instagram": null, "contact:email": null }, "geometry": { "type": "Point", "coordinates": [ 56.1513054, 57.9719455 ] } },
+{ "type": "Feature", "properties": { "full_id": "n9866908176", "osm_id": "9866908176", "osm_type": "node", "shop": "craft", "operator": null, "opening_hours": "Mo-Su 10:00-22:00", "name": "Леонардо", "contact:website": "https://leonardo.ru/", "contact:vk": null, "contact:phone": "+7 342 2553775;+7 800 7005127", "contact:instagram": null, "contact:email": null }, "geometry": { "type": "Point", "coordinates": [ 56.2265736, 58.0118804 ] } },
+{ "type": "Feature", "properties": { "full_id": "n9866908177", "osm_id": "9866908177", "osm_type": "node", "shop": "craft", "operator": null, "opening_hours": "Mo-Su 10:00-22:00", "name": "Леонардо", "contact:website": "https://leonardo.ru/", "contact:vk": null, "contact:phone": "+7 342 2144015;+7 800 7005127", "contact:instagram": null, "contact:email": null }, "geometry": { "type": "Point", "coordinates": [ 56.2620458, 58.0076303 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "bus_station",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "w26201453", "osm_id": "26201453", "osm_type": "way", "amenity": "bus_station", "name": "Автовокзал", "building:levels": "2", "building": "transportation", "addr:street": "улица Революции", "addr:housenumber": "68" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 56.232408550344772, 58.002570360057142 ] ] } },
+{ "type": "Feature", "properties": { "full_id": "w108400690", "osm_id": "108400690", "osm_type": "way", "amenity": "bus_station", "name": "Автостанция \"Южная\"", "building:levels": "2", "building": "transportation", "addr:street": "Ижевская улица", "addr:housenumber": "2" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 56.262168092916404, 57.974774122041467 ] ] } }
+]
+}

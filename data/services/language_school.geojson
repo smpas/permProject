@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "language_school",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n8237607366", "osm_id": "8237607366", "osm_type": "node", "amenity": "language_school", "operator": "Еврошкола", "opening_hours": "Mo-Su 09:00-21:00", "name": "Еврошкола", "contact:website": "https://www.euroschool59.ru/", "contact:vk": "https://vk.com/euroschool59", "contact:phone": "+7 342 2919591", "contact:instagram": "https://instagram.com/euroschool.perm", "contact:facebook": "https://facebook.com/euroschool.perm", "contact:email": "euroschool.perm@bk.ru" }, "geometry": { "type": "Point", "coordinates": [ 56.1954438, 57.9792164 ] } }
+]
+}

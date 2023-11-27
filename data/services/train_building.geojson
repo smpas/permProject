@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "train_building",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n5302483129", "osm_id": "5302483129", "osm_type": "node", "railway": "station", "wheelchair": null, "baby_feeding": null, "abandoned": null, "wikipedia": null, "wikidata": null, "old_name": "Заимки;Пермь-Заимки", "description": null, "name:ja": null, "uic_name": "Perm 2", "name:ru:word_stress": null, "uic_ref": "2001126", "train": "yes", "public_transport": "station", "operator": "Свердловская дирекция управления движением АО «РЖД»", "network": "РЖД", "name": "Пермь-2", "esr:user": null }, "geometry": { "type": "Point", "coordinates": [ 56.1776368, 58.0048429 ] } },
+{ "type": "Feature", "properties": { "full_id": "n6446568550", "osm_id": "6446568550", "osm_type": "node", "railway": "station", "wheelchair": null, "baby_feeding": null, "abandoned": null, "wikipedia": null, "wikidata": null, "old_name": null, "description": null, "name:ja": null, "uic_name": null, "name:ru:word_stress": null, "uic_ref": null, "train": "yes", "public_transport": "station", "operator": "Свердловская дирекция управления движением АО «РЖД»", "network": "Свердловская железная дорога - филиал АО «РЖД»", "name": "Пермь I", "esr:user": null }, "geometry": { "type": "Point", "coordinates": [ 56.252487978925437, 58.019835308052443 ] } }
+]
+}

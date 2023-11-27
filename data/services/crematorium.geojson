@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "crematorium",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "w841989766", "osm_id": "841989766", "osm_type": "way", "amenity": "crematorium", "check_date": "2022-05-22", "building": "construction", "addr:street": null, "addr:housenumber": null, "addr:country": null, "addr:city": null }, "geometry": { "type": "Point", "coordinates": [ 56.35932925, 57.97394975 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "escape_game",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n5060470022", "osm_id": "5060470022", "osm_type": "node", "leisure": "escape_game", "contact:email": null, "contact:website": null, "contact:phone": null, "phone": "+7 342 2874070", "opening_hours": "Mo-Su 10:00-01:00", "name:ru": "Lost", "name": "Lost" }, "geometry": { "type": "Point", "coordinates": [ 56.2574453, 57.9935118 ] } },
+{ "type": "Feature", "properties": { "full_id": "n8839176173", "osm_id": "8839176173", "osm_type": "node", "leisure": "escape_game", "contact:email": null, "contact:website": "https://quest-prm.ru/", "contact:phone": "+7 342 2341442", "phone": null, "opening_hours": "Mo-Su 10:00-23:00", "name:ru": null, "name": "Квестим Пермь" }, "geometry": { "type": "Point", "coordinates": [ 56.2443538, 58.0106043 ] } },
+{ "type": "Feature", "properties": { "full_id": "n10788143274", "osm_id": "10788143274", "osm_type": "node", "leisure": "escape_game", "contact:email": "perm@cookn.run", "contact:website": "https://cookn.run/", "contact:phone": "+7 342 2734092", "phone": null, "opening_hours": "24/7", "name:ru": null, "name": "Cook&Run" }, "geometry": { "type": "Point", "coordinates": [ 56.1993974, 57.9939103 ] } }
+]
+}

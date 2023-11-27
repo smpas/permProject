@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "zoo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "w31275133", "osm_id": "31275133", "osm_type": "way", "tourism": "zoo", "building:levels": null, "building": null, "addr:street2": null, "addr:street": null, "addr:housenumber2": null, "addr:housenumber": null, "name": "Пермский зоопарк" }, "geometry": { "type": "Point", "coordinates": [ 56.237010788973706, 58.016976303533326 ] } },
+{ "type": "Feature", "properties": { "full_id": "w134202898", "osm_id": "134202898", "osm_type": "way", "tourism": "zoo", "building:levels": "2", "building": "yes", "addr:street2": "Комсомольский проспект", "addr:street": "улица Окулова", "addr:housenumber2": "2", "addr:housenumber": "3", "name": "Акватеррариум" }, "geometry": { "type": "Point", "coordinates": [ 56.234173916833228, 58.016798600123757 ] } }
+]
+}
