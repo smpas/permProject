@@ -83,7 +83,8 @@
 ![изображение](https://github.com/smpas/permProject/assets/55205785/51ee140e-ebb0-4976-981d-d6dc6f954164)
 
 ### Фильтрация зданий
-Все здания города были отфильтрованы по вхождению в каждый из трех изохронов:
+Все здания города были отфильтрованы по вхождению в каждый из трех изохронов. Код фильтрации представлен в файле [buildings_in_isochrone.py](https://github.com/smpas/permProject/blob/master/graphs/code/buildings_in_isochrone.py).
+
 - Здания, входящие в 10-минутный пешеходный изохрон: [buildings_in_walk_isochrone.geojson](https://github.com/smpas/permProject/blob/master/graphs/results/buildings_in_walk_isochrone.geojson).
 
 ![изображение](https://github.com/smpas/permProject/assets/55205785/955d4065-6171-4b07-8590-57c47600ce35)
