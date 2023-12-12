@@ -100,17 +100,17 @@
 ## Задание 5
 ### 1. Оценка многообразия заведений общепита в кварталах города
 
-- Были подсчитаны сервисы cafe + fastfood в кварталах Перми
-- Код приведен в файле [provision_by_quantity.py](https://github.com/smpas/permProject/blob/master/task5/code/provision_by_quantity.py)
-- Визуализация представлена в HTML-файле [cafe_quantity.html](https://github.com/smpas/permProject/blob/master/task5/results/cafe_quantity.html)
+- Были подсчитаны сервисы cafe + fastfood в кварталах Перми.
+- Код приведен в файле [provision_by_quantity.py](https://github.com/smpas/permProject/blob/master/task5/code/provision_by_quantity.py).
+- Визуализация представлена в HTML-файле [cafe_quantity.html](https://github.com/smpas/permProject/blob/master/task5/results/cafe_quantity.html).
 
 ![изображение](https://github.com/smpas/permProject/assets/55205785/ac59e01b-1d30-4d59-8710-9d08f40cbc51)
 
 ### 2. Реализация метрики обеспеченности Proportional 2SFCA
 
 - При помощи данного метода оценивалась обеспеченность населения сервисами типа "школа"
-- Сначала при помощи преложенного нам кода была получена матрица расстояний между всеми жилыми зданиями города и школами. Код построения матрицы представлен в файле [get_distance_matrix.py](https://github.com/smpas/permProject/blob/master/task5/code/get_distance_matrix.py)
-- Реализация самой методики приведена в блокноте [provision.ipynb](https://github.com/smpas/permProject/blob/master/task5/code/provision.ipynb)
-- Результаты работы метода доступны в файле (buildings_provision.geojson)[https://github.com/smpas/permProject/blob/master/task5/results/buildings_provision.geojson]
+- Сначала при помощи преложенного нам кода была получена матрица расстояний между всеми жилыми зданиями города и школами. Код построения матрицы представлен в файле [get_distance_matrix.py](https://github.com/smpas/permProject/blob/master/task5/code/get_distance_matrix.py).
+- Реализация самой методики приведена в блокноте [provision.ipynb](https://github.com/smpas/permProject/blob/master/task5/code/provision.ipynb).
+- Результаты работы метода доступны в файле [buildings_provision.geojson](https://github.com/smpas/permProject/blob/master/task5/results/buildings_provision.geojson).
 
 [изображение](https://github.com/smpas/permProject/assets/55205785/04987c8f-c5ea-487d-916c-ae5ad7d9500a)
